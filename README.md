@@ -1,3 +1,8 @@
+[![MasterHead](https://res.cloudinary.com/dtwnagig5/image/upload/v1672759012/getchefd/ibtfw_m6mpdk.png)](https://harjassodhi.com)
+
+<h1  align="center"> Hi👋, I am Harjas Sodhi  </h1>
+<h3 align="center">A Passionate FullStack(MERN) Developer and Problem Solver</h3>
+
 # 💫 About Me:
 🌱 I’m currently learning Next.JS, Server Side rendering, Docker, NGINX<br><br>👯 I’m looking to collaborate on any cool projects<br><br>👨‍💻 All of my projects are available at https://harjassodhi.com/<br><br>📝 I regularly write articles on https://harjassodhi.com/<br><br>💬 Ask me about Fullstack(MERN) development, React, HTML, CSS, JS/Nodejs, Typescript, MongoDB<br><br>📫 How to reach me harjassodhi9@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1aimZHxNp_glhQK8Hx0tbyTX0qJg52aIM/view?usp=sharing<br><br>⚡ Fun fact I love Real Madrid and CR7!!
 
