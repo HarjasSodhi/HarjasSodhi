@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dtwnagig5/image/upload/v1672759012/getchefd/ibtfw_m6mpdk.png)](https://harjassodhi.com)
+[![MasterHead](https://res.cloudinary.com/dtwnagig5/image/upload/v1672759915/getchefd/ibtfw_tdyys4.png)](https://harjassodhi.com)
 
 <h1  align="center"> Hi👋, I am Harjas Sodhi  </h1>
 <h3 align="center">A Passionate FullStack(MERN) Developer and Problem Solver</h3>
@@ -18,6 +18,22 @@
 ![](https://github-readme-stats.vercel.app/api?username=HarjasSodhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarjasSodhi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarjasSodhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+<a>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarjasSodhi&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+</a>
+<a>
+   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=HarjasSodhi&theme=tokyonight"/>
+</a>
+<a>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HarjasSodhi&show_icons=true&locale=en&theme=tokyonight"/>
+</a>
+<a>
+  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=HarjasSodhi&theme=nord" />
+</a>
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarjasSodhi&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
